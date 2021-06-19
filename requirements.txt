@@ -5,7 +5,7 @@ config==0.5.0.post0
 fastapi==0.65.2
 h11==0.12.0
 numpy==1.20.3
-opencv-python==4.5.1.48
+opencv-python-headless==3.4.13.47
 pydantic==1.8.2
 python-multipart==0.0.5
 six==1.16.0
